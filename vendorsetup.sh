@@ -1,4 +1,4 @@
-git clone https://github.com/Mayur-U/android_hardware_xiaomi_onyx.git hardware/xiaomi
+git clone https://github.com/xiaomi-sm8750-onyx/android_hardware_xiaomi.git hardware/xiaomi
 
 git clone https://github.com/Mayur-U/android_packages_apps_XiaomiDolby.git packages/apps/XiaomiDolby
 
